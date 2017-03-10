@@ -1,0 +1,87 @@
+<LinearLayout xmlns:android ="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal" >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="#C000C0"
+            android:contentDescription="@string/descripcion"
+            android:padding="3dp"
+            android:clickable="true"
+            android:onClick="onClickInstrumento"
+            android:src="@drawable/timple"
+            android:layout_weight="1" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/piano"
+            android:background="#C0C000"
+            android:padding="3dp"
+            android:clickable="true"
+            android:onClick="onClickInstrumento"
+            android:contentDescription="@string/descripcion" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/guitarra"
+            android:background="#00C0C0"
+            android:padding="3dp"
+            android:clickable="true"
+            android:onClick="onClickInstrumento"
+            android:contentDescription="@string/descripcion" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/trompeta"
+            android:background="#00C000"
+            android:padding="3dp"
+            android:clickable="true"
+            android:onClick="onClickInstrumento"
+            android:contentDescription="@string/descripcion" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/bateria"
+            android:background="#001122"
+            android:padding="3dp"
+            android:clickable="true"
+            android:onClick="onClickInstrumento"
+            android:contentDescription="@string/descripcion"/>
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/harmonica"
+            android:background="#C00000"
+            android:padding="3dp"
+            android:clickable="true"
+            android:onClick="onClickInstrumento"
+            android:contentDescription="@string/descripcion" />
+    </LinearLayout>
+
+</LinearLayout>

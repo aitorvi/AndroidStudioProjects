@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab32b</string>
+    <string name="title_activity_condiciones">Condiciones</string>
+    <string name="title_activity_acerca_de">AcercaDeActivity</string>
+</resources>
