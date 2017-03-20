@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.journaldev.sqlite.AddActividadesActivity">
+
+    <ScrollView
+        android:layout_width="393dp"
+        android:layout_height="580dp"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="2dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/Titulo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Titulo"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="-1dp" />
+
+            <EditText
+                android:id="@+id/et1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="textPersonName"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Prioridad"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="149dp" />
+
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:checkedButton="@+id/r7"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="76dp">
+
+                <RadioButton
+                    android:id="@+id/r1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Hecho" />
+
+                <RadioButton
+                    android:id="@+id/r7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Pendiente" />
+            </RadioGroup>
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Status"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="59dp" />
+
+            <RadioGroup
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:checkedButton="@+id/r7"
+                tools:layout_editor_absoluteX="16dp"
+                tools:layout_editor_absoluteY="166dp">
+
+                <RadioButton
+                    android:id="@+id/r3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Baja" />
+
+                <RadioButton
+                    android:id="@+id/r7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Media" />
+
+                <RadioButton
+                    android:id="@+id/r5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Alta" />
+
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="Fecha y Hora"
+                    tools:layout_editor_absoluteX="16dp"
+                    tools:layout_editor_absoluteY="275dp" />
+
+                <EditText
+                    android:id="@+id/et3"
+                    android:layout_width="match_parent"
+                    android:layout_height="36dp"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:inputType="time"
+                    tools:layout_editor_absoluteX="203dp"
+                    tools:layout_editor_absoluteY="292dp" />
+
+                <EditText
+                    android:id="@+id/et2"
+                    android:layout_width="match_parent"
+                    android:layout_height="35dp"
+                    android:layout_weight="1"
+                    android:ems="10"
+                    android:inputType="date"
+                    tools:layout_editor_absoluteX="16dp"
+                    tools:layout_editor_absoluteY="292dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/button3"
+                        android:layout_width="136dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="HORA"
+                        tools:layout_editor_absoluteX="245dp"
+                        tools:layout_editor_absoluteY="338dp" />
+
+                    <Button
+                        android:id="@+id/button2"
+                        android:layout_width="136dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="FECHA"
+                        tools:layout_editor_absoluteX="16dp"
+                        tools:layout_editor_absoluteY="338dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/SUBMIT"
+                        android:layout_width="136dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:onClick="submit"
+                        android:text="SUBMIT"
+                        tools:layout_editor_absoluteX="148dp"
+                        tools:layout_editor_absoluteY="338dp" />
+                </LinearLayout>
+
+            </RadioGroup>
+        </LinearLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

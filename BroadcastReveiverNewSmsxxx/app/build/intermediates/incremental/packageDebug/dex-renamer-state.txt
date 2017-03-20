@@ -1,0 +1,7 @@
+#Sun Mar 12 22:26:45 GMT 2017
+base.0=C\:\\Users\\Aitor\\AndroidStudioProjects\\BroadcastReveiverNewSmsxxx\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9e18611d9e36a3753e08dbc5db7b847b83054c22
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Aitor\\AndroidStudioProjects\\BroadcastReveiverNewSmsxxx\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_58b0922172cac1fdc2ab27105058d9f476b855b5\\classes.dex
+base.1=C\:\\Users\\Aitor\\AndroidStudioProjects\\BroadcastReveiverNewSmsxxx\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_58b0922172cac1fdc2ab27105058d9f476b855b5
+file.0=C\:\\Users\\Aitor\\AndroidStudioProjects\\BroadcastReveiverNewSmsxxx\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9e18611d9e36a3753e08dbc5db7b847b83054c22\\classes.dex

@@ -1,0 +1,560 @@
+[
+    {
+        "outputFile": "C:\\Users\\Aitor\\AndroidStudioProjects\\BroadcastReveiverNewSmsxxx\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endLine": 5,
+                    "endColumn": 11,
+                    "endOffset": 253
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 258,
+                    "endColumn": 67,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 326,
+                    "endLine": 9,
+                    "endColumn": 11,
+                    "endOffset": 450
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 455,
+                    "endLine": 12,
+                    "endColumn": 11,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 581,
+                    "endColumn": 66,
+                    "endOffset": 643
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 648,
+                    "endLine": 16,
+                    "endColumn": 11,
+                    "endOffset": 766
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 771,
+                    "endLine": 19,
+                    "endColumn": 11,
+                    "endOffset": 891
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 896,
+                    "endColumn": 66,
+                    "endOffset": 958
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 963,
+                    "endColumn": 64,
+                    "endOffset": 1023
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1028,
+                    "endColumn": 64,
+                    "endOffset": 1088
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1093,
+                    "endColumn": 66,
+                    "endOffset": 1155
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1160,
+                    "endLine": 28,
+                    "endColumn": 11,
+                    "endOffset": 1365
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1370,
+                    "endColumn": 68,
+                    "endOffset": 1434
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1439,
+                    "endColumn": 65,
+                    "endOffset": 1500
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1505,
+                    "endLine": 33,
+                    "endColumn": 11,
+                    "endOffset": 1625
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1630,
+                    "endLine": 36,
+                    "endColumn": 11,
+                    "endOffset": 1751
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1756,
+                    "endColumn": 66,
+                    "endOffset": 1818
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1823,
+                    "endLine": 40,
+                    "endColumn": 11,
+                    "endOffset": 1944
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1949,
+                    "endLine": 43,
+                    "endColumn": 11,
+                    "endOffset": 2071
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2076,
+                    "endLine": 46,
+                    "endColumn": 11,
+                    "endOffset": 2196
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2201,
+                    "endLine": 49,
+                    "endColumn": 11,
+                    "endOffset": 2323
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2328,
+                    "endColumn": 64,
+                    "endOffset": 2388
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2393,
+                    "endLine": 53,
+                    "endColumn": 11,
+                    "endOffset": 2514
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2519,
+                    "endLine": 56,
+                    "endColumn": 11,
+                    "endOffset": 2637
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2642,
+                    "endColumn": 64,
+                    "endOffset": 2702
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2707,
+                    "endLine": 62,
+                    "endColumn": 11,
+                    "endOffset": 2910
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 2915,
+                    "endColumn": 66,
+                    "endOffset": 2977
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2982,
+                    "endColumn": 61,
+                    "endOffset": 3039
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3044,
+                    "endColumn": 61,
+                    "endOffset": 3101
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 3106,
+                    "endColumn": 61,
+                    "endOffset": 3163
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 3168,
+                    "endColumn": 58,
+                    "endOffset": 3222
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 3227,
+                    "endColumn": 59,
+                    "endOffset": 3282
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3287,
+                    "endColumn": 60,
+                    "endOffset": 3343
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3348,
+                    "endColumn": 60,
+                    "endOffset": 3404
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3409,
+                    "endColumn": 58,
+                    "endOffset": 3463
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 3468,
+                    "endLine": 77,
+                    "endColumn": 11,
+                    "endOffset": 3672
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\.android\\build-cache\\02da1658b0b80550125eee80e5c375baa6e4981a\\output\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 7705,
+                    "endColumn": 60,
+                    "endOffset": 7761
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\AndroidStudioProjects\\BroadcastReveiverNewSmsxxx\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 7766,
+                    "endColumn": 52,
+                    "endOffset": 7814
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\AndroidStudioProjects\\BroadcastReveiverNewSmsxxx\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 7819,
+                    "endColumn": 50,
+                    "endOffset": 7865
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\AndroidStudioProjects\\BroadcastReveiverNewSmsxxx\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 7870,
+                    "endColumn": 65,
+                    "endOffset": 7931
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\AndroidStudioProjects\\BroadcastReveiverNewSmsxxx\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 65,
+                        "endOffset": 350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 7936,
+                    "endColumn": 60,
+                    "endOffset": 7992
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\AndroidStudioProjects\\BroadcastReveiverNewSmsxxx\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 7997,
+                    "endLine": 88,
+                    "endColumn": 12,
+                    "endOffset": 8075
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\AndroidStudioProjects\\BroadcastReveiverNewSmsxxx\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 8080,
+                    "endLine": 91,
+                    "endColumn": 12,
+                    "endOffset": 8147
+                },
+                "from": {
+                    "file": "C:\\Users\\Aitor\\AndroidStudioProjects\\BroadcastReveiverNewSmsxxx\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]
