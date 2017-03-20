@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Users\Aitor\Desktop\Prueba\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="F:\Users\Aitor\Desktop\Prueba\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f7843fe7090f0fe52af6c1ebb15d8ab480dfcbd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Users\Aitor\Desktop\Prueba\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2b84b744acc24320c94599deed914b5f15b563a">
+        <dex dex="F:\Users\Aitor\Desktop\Prueba\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_08d83ff5d9009dba387cea8d44dcc51b6219221a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aitor\AndroidStudioProjects\Definitivo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0cbc1abbc6e9d91ae02422bef2601d5411beb2ee">
+        <dex dex="C:\Users\Aitor\AndroidStudioProjects\Definitivo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_dcd4ddb00c9a3f93ad4e3a64652e3d6f7d8fe654\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aitor\AndroidStudioProjects\Definitivo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Aitor\AndroidStudioProjects\Definitivo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_21bf0fa93c3855632252dd34a2bfef0bd91d7dd7\classes.dex" />
+    </item>
+
+</items>
