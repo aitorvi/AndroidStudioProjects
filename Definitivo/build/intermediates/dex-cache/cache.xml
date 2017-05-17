@@ -3,12 +3,102 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\Aitor\.android\build-cache\8d7c5fbd9d3291a3821240764041cfb172a196ca\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\Aitor\AndroidStudioProjects\Definitivo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_848b2904d6f46ee77184b20cd3aa27e648e9d1fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aitor\.android\build-cache\a1ce8298917a2db989336e85ff52efc0d752866e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\Aitor\AndroidStudioProjects\Definitivo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_07c644d7d4bafe078a04d41b094bb4dac24c29d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aitor\.android\build-cache\aedefe24010689d475d50b281700d356e630af2f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\Aitor\AndroidStudioProjects\Definitivo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_894a6bfd9a401f28689dcfab37c1357ade76de23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aitor\.android\build-cache\fefc9937d86a7cf4cc916a036a0f0d68335be046\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\Aitor\AndroidStudioProjects\Definitivo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6df3b21de2b4f8ce734f42a395d76fe94a949272\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aitor\.android\build-cache\568418fad526aeae546bb073ec9b6f91ab0bcf33\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\Aitor\AndroidStudioProjects\Definitivo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b598044fa1976e238bc140f6c752374a4842f976\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aitor\AndroidStudioProjects\Definitivo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e07e58818e773fd737355c89756819bc180ecae9">
+        <dex dex="C:\Users\Aitor\AndroidStudioProjects\Definitivo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_dcd4ddb00c9a3f93ad4e3a64652e3d6f7d8fe654\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aitor\.android\build-cache\4b32c578df778402cb0ec79cf682f8f1fc2a3b24\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\Aitor\AndroidStudioProjects\Definitivo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_42e7a620b5dcdba119f28d79a444a48d0358d93e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="F:\Users\Aitor\Desktop\Prueba\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
         <dex dex="F:\Users\Aitor\Desktop\Prueba\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f7843fe7090f0fe52af6c1ebb15d8ab480dfcbd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aitor\.android\build-cache\f22f8979b5cb963dc2fb3d9af689c9b751b554d5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\Aitor\AndroidStudioProjects\Definitivo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_22cbca6f6714a99823b6448edd7ae67c39c17e73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aitor\AndroidStudioProjects\Definitivo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Aitor\AndroidStudioProjects\Definitivo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_21bf0fa93c3855632252dd34a2bfef0bd91d7dd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Aitor\.android\build-cache\7e72a888f627af6f772f4865ab8c984efbcf7802\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Aitor\AndroidStudioProjects\Definitivo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_486df2e74e3b1807a0b690b00dff78f9e70ca400\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -21,21 +111,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Aitor\AndroidStudioProjects\Definitivo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\Aitor\.android\build-cache\bbdf375feed3066d9d3c292319b2fa7ae763d9b1\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="0cbc1abbc6e9d91ae02422bef2601d5411beb2ee">
-        <dex dex="C:\Users\Aitor\AndroidStudioProjects\Definitivo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_dcd4ddb00c9a3f93ad4e3a64652e3d6f7d8fe654\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Aitor\AndroidStudioProjects\Definitivo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="C:\Users\Aitor\AndroidStudioProjects\Definitivo\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_21bf0fa93c3855632252dd34a2bfef0bd91d7dd7\classes.dex" />
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\Aitor\AndroidStudioProjects\Definitivo\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fcd4ca000d03794b000d1cb206db92d6775b7577\classes.dex" />
     </item>
 
 </items>
