@@ -7,18 +7,18 @@
     tools:context="com.example.aitor.rutas.Main3Activity">
 
     <LinearLayout
-        android:layout_width="395dp"
-        android:layout_height="0dp"
+        android:layout_width="412dp"
+        android:layout_height="625dp"
         android:orientation="vertical"
         tools:layout_editor_absoluteY="8dp"
-        tools:layout_editor_absoluteX="8dp">
+        tools:layout_editor_absoluteX="-9dp">
 
         <TextView
             android:id="@+id/textView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="TextView"
+            android:layout_weight="0.07"
+            android:text="Ruta"
             tools:layout_editor_absoluteX="0dp"
             tools:layout_editor_absoluteY="0dp" />
 
@@ -26,8 +26,8 @@
             android:id="@+id/textView2"
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="1"
-            android:text="TextView"
+            android:layout_weight="0.18"
+            android:text="Dificultad"
             tools:layout_editor_absoluteX="0dp"
             tools:layout_editor_absoluteY="0dp" />
 
@@ -35,7 +35,7 @@
             android:id="@+id/editText2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
+            android:layout_weight="0.39"
             android:ems="10"
             android:inputType="textMultiLine"
             tools:layout_editor_absoluteX="8dp"
@@ -44,7 +44,8 @@
         <com.google.android.gms.maps.MapView
             android:id="@+id/mapView2"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+            android:layout_height="wrap_content"
+            android:layout_weight="1.39" />
 
     </LinearLayout>
 
