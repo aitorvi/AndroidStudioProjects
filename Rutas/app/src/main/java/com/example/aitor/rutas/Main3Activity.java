@@ -10,9 +10,6 @@ public class Main3Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main3);
-        Bundle bundle = getIntent().getExtras();
-        String dato=bundle.getString("direccion");
-        Toast.makeText(this, dato, Toast.LENGTH_LONG).show();
 
     }
 
