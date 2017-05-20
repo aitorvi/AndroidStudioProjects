@@ -1,8 +1,86 @@
-<fragment xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:map="http://schemas.android.com/apk/res-auto"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/map"
-    android:name="com.google.android.gms.maps.SupportMapFragment"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context="com.example.aitor.rutas.MapsActivity" />
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="8dp"
+    android:layout_marginStart="8dp"
+    android:layout_marginTop="16dp"
+    android:orientation="vertical"
+    android:weightSum="1"
+    app:layout_constraintLeft_toLeftOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    tools:layout_constraintLeft_creator="1"
+    tools:layout_constraintTop_creator="1">
+
+
+    <TextView
+        android:id="@+id/etiquetaRuta"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_weight="0.14"
+        android:text="RUTA"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <TextView
+        android:id="@+id/tvrecorrido"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_weight="0.14"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <TextView
+        android:id="@+id/etiquetaDificultad"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_weight="0.14"
+        android:text="DIFICULTAD"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <TextView
+        android:id="@+id/tvdificultad"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp"
+        android:layout_weight="0.14" />
+
+    <TextView
+        android:id="@+id/etiquetaDescripcion"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_weight="0.14"
+        android:text="DESCRIPCION:"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <EditText
+        android:id="@+id/tvdescripcion"
+        android:layout_width="match_parent"
+        android:layout_height="249dp"
+        android:clickable="false"
+        android:cursorVisible="false"
+        android:ems="10"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:inputType="none"
+        android:layout_weight="0.14" />
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="145dp"
+        tools:context="com.example.aitor.rutas.MapsActivity"
+        android:layout_weight="0.14" />
+</LinearLayout>
