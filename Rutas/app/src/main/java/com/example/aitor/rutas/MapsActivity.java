@@ -85,10 +85,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     public void onMapReady(GoogleMap googleMap) {
         mMap = googleMap;
         mMap.setMapType(GoogleMap.MAP_TYPE_SATELLITE);
-        // Add a marker in Sydney and move the camera
-        //kml.substring()
-        //LatLng inicio = new LatLng(28.61, -13.92);
- //       mMap.addMarker(new MarkerOptions().position(inicio).title("Fuerteventura"));
+
         String [] listax = kmlx.split("@");
         String [] listay=kmly.split("@");
 
