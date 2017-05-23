@@ -104,7 +104,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                        .title("Incio"));
 
                // Se situa el foco en el inicio con zoom 12
-               mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(x, y),10));
+               mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(x, y),11));
            }
            //Añadre marcador final
            if (i==listax.length-1){
