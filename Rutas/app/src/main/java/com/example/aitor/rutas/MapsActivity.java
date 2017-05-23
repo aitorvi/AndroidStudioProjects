@@ -12,7 +12,10 @@ import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
+import com.google.android.gms.maps.model.Polyline;
 import com.google.android.gms.maps.model.PolylineOptions;
+
+import java.util.ArrayList;
 import java.util.List;
 import static com.example.aitor.rutas.R.id.map;
 import static java.lang.Double.parseDouble;
@@ -26,7 +29,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     public TextView mapaDescripcion;
     public String kmlx;
     public String kmly;
-    public List<LatLng> camino;
+    public List<LatLng> camino = new ArrayList<>();
 
 
 
@@ -88,29 +91,48 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
  //       mMap.addMarker(new MarkerOptions().position(inicio).title("Fuerteventura"));
         String [] listax = kmlx.split("@");
         String [] listay=kmly.split("@");
-        Double [] latitud = new Double[0];
-        Double [] longitud = new Double[0];
-        for (int i=0; i<listax.length-1; i++) {
-        latitud[i]= parseDouble(listax[i]);
-            longitud[i]= parseDouble(listay[i]);
 
 
-            camino.add(new LatLng(latitud[i],longitud[i]));
-          //  camino.add(i,new LatLng(x, y));
-            Toast toast1 =
-                    Toast.makeText(this,
-                            "Agregado", Toast.LENGTH_LONG);
+
+        for (int i=0; i<listax.length; i++) {
+            double x=Double.parseDouble(listax[i]);
+            double y=Double.parseDouble(listay[i]);
+
+
+        camino.add(i, new LatLng(x, y));
+//Añade marcador inicio
+           if (i==0){
+               mMap.addMarker(new MarkerOptions()
+                       .position(new LatLng(x, y))
+                       .title("Incio"));
+
+               // Se situa el foco en el inicio con zoom 12
+               mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(x, y),10));
+           }
+           //Añadre marcador final
+           if (i==listax.length-1){
+               mMap.addMarker(new MarkerOptions()
+
+                       .position(new LatLng(x, y))
+                       .title("Final"));
+
+
+           }
+
+
         }
 
+// lee la lista de posiciones y la agrega a la polilinea
 
-        //mMap.moveCamera(CameraUpdateFactory.newLatLng(inicio));
-        //mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(inicio, 8));
-        mMap.addPolyline(new PolylineOptions().addAll(camino));
+        mMap.addPolyline(new PolylineOptions()
+                .color(Color.YELLOW)
+                .clickable(true)
+                .addAll(camino));
 
-        // .add(new LatLng(),new LatLng(29,13.62)
 
 
-        //mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(-33.8256, 151.2395), 10));
+
+        mMap.getCameraPosition();
 
 
 
