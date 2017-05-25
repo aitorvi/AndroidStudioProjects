@@ -74,7 +74,8 @@
         android:ems="10"
         android:focusable="false"
         android:focusableInTouchMode="false"
-        android:inputType="none" />
+        android:inputType="none"
+        android:textAlignment="viewStart" />
 
     <fragment
         android:id="@+id/map"

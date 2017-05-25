@@ -103,8 +103,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                        .position(new LatLng(x, y))
                        .title("Incio"));
 
-               // Se situa el foco en el inicio con zoom 12
-               mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(x, y),11));
+               // Se situa el foco en el inicio con zoom 11
+               mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(new LatLng(x, y),5));
            }
            //Añadre marcador final
            if (i==listax.length-1){
@@ -125,11 +125,11 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 .color(Color.YELLOW)
                 .clickable(true)
                 .addAll(camino));
+        mMap.animateCamera(CameraUpdateFactory.zoomTo(11), 5000, null);
 
 
 
 
-        mMap.getCameraPosition();
 
 
 
